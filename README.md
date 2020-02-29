@@ -15,7 +15,7 @@ How to test it:
 
 5 - The system will ask your year of birth and tell you all the winners and later recommend you songs.
 
-6 - 
+6 - The output, after collecting data from the user, will give something like:
 
 O vencedor foi:
 Filme vencedor:
